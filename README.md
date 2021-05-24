@@ -135,3 +135,6 @@ Rob Wren's armoured train car to get the crate.
 
 Whatever Floats Your Boat	
 Survive an entire round without dying in the marked circle somewhere on the map.
+
+Escape Room 2[Removed]
+Collect Wren's Treasure chest in any map.
